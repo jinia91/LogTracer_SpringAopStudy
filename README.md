@@ -19,8 +19,9 @@
 
 - 정상 요청시 로그 추적
 
-![첨부 이미지](https://github.com/jinia91/blogBackUp/blob/main/img/ab0d5001-68ef-44bc-8583-e5b8da02f4ff.png?raw=true)
+![첨부 이미지](https://github.com/jinia91/blogBackUp/blob/main/img/f9cd5e28-3afc-4f9f-80e0-2283d9dedff0.png?raw=true)
 
 - 에러 발생시 로그 추적
 
-![첨부 이미지](https://github.com/jinia91/blogBackUp/blob/main/img/e1d11596-2d62-4e51-a8c0-e7a6318da048.png?raw=true)
+![첨부 이미지](https://github.com/jinia91/blogBackUp/blob/main/img/c98023c9-45ff-4bc6-8fd5-6b45038699ed.png?raw=true)
+

@@ -18,7 +18,7 @@ import org.springframework.core.annotation.Order;
 public class AspectV6 {
 
     @Aspect
-    @Order(1)
+    @Order(2)
     @RequiredArgsConstructor
     public static class LogAspect {
 
@@ -42,7 +42,7 @@ public class AspectV6 {
     }
 
     @Aspect
-    @Order(2)
+    @Order(1)
     public static class TxAspect {
         @Around("aop.logtracer.aop.PointCuts.orderAndService()")
         public Object doTransaction(ProceedingJoinPoint joinPoint) throws Throwable {
