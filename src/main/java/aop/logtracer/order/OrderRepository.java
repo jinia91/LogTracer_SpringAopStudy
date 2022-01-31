@@ -10,7 +10,7 @@ public class OrderRepository {
 
     @Trace
     public String save(String itemId) {
-        log.info("[orderRepository] 실행");
+//        log.info("[orderRepository] 실행");
         if (itemId.equals("ex")) {
             throw new IllegalStateException("예외 발생!");
         }

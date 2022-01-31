@@ -14,7 +14,7 @@ public class OrderService {
 
     @Trace
     public void orderItem(String itemId) {
-        log.info("[orderService] 실행");
+//        log.info("[orderService] 실행");
         orderRepository.save(itemId);
     }
 }
